@@ -39,6 +39,10 @@ To install Chess Spell Moves, follow these steps:
 
 We welcome your feedback and contributions! If you encounter any issues or have suggestions for improvement, please [create an issue](https://github.com/AudouxH/chess_spell_moves/issues) or submit a pull request.
 
+## Confidentiality rules
+
+[Click here and read the rules.](./confidentiality_rules.md)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
