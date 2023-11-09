@@ -41,7 +41,7 @@ We welcome your feedback and contributions! If you encounter any issues or have 
 
 ## Confidentiality rules
 
-[Click here and read the rules.](./confidentiality_rules.md)
+[Click here and read the rules.](./md-files/confidentiality_rules.md)
 
 ## License
 

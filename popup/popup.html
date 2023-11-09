@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Move Announcer</title>
+    <script src="popup.js"></script>
+    <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+    <div class="container">
+        <img class="logo" src="../assets/logo.png" alt="Chess spell moves Logo">
+        <div class="message">Welcome to Chess spell moves extension !</div>
+        <div class="instruction">Before you start, please ensure:</div>
+        <div class="instruction">1. You are using <strong>Google Chrome</strong> web browser.</div>
+        <div class="instruction">2. Set up the <strong>Piece Notation</strong> to <strong>Text</strong> in your
+            chess.com settings.</div>
+        <img class="screenshot" src="../assets/settings-screenshot.png" alt="Chess.com Settings Screenshot">
+        <div class="instruction">3. Choose your <strong>language</strong> below:</div>
+        <div class="language-toggle">
+            <p class="language-text">English</p>
+            <label class="switch">
+                <input type="checkbox" id="langToggle">
+                <span class="slider"></span>
+            </label>
+            <p class="language-text">Francais</p>
+        </div>
+        <div class="note space">
+            Please ensure that the selected language matches your Chess.com language
+            preference.
+        </div>
+        <div class="instruction">4. Play against a <strong>computer</strong>.</div>
+        <div class="note">Note: Online game support will be available soon.</div>
+    </div>
+</body>
+
+</html>
